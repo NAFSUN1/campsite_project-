@@ -1,0 +1,111 @@
+.graph{position: fixed;
+    top: 447px;
+    right: 0px;
+}
+
+
+
+.navbar-nav{position: absolute;left: 510px;}
+
+.nav-item:hover{
+  background-color: #cec6c6;
+}
+
+
+h1{font-family: 'Playfair Display', serif; 
+}
+
+.text h1{font-size: 71px;}
+
+.text p{font-size: 22px;}
+.dv1 
+{background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(beautiful-campsites-img/river-flowing-through-forest-generative-al2-min.jpg); width: 100%;height:600px;display: flex;
+  background-repeat: no-repeat; background-size: 100% 100%;background-position: center;}
+
+.text{color: aliceblue;
+         width: 100%; font-weight: 600;}
+h1{font-weight: bold !important;}
+
+.preview
+{min-height: 100vh;       display: flex;justify-content: center;align-items: center;}
+
+.btn1{background-color:#a79770;border-radius: 100px;font-weight: 400;padding: 12px; color: white;}
+
+.div3{margin: 60px;}
+
+.fs{width: 100%;
+    height: 349px;
+}
+
+.sec
+{ justify-content:center;align-items: center;margin-top: 0px;}
+
+h3{font-family: 'Playfair Display', serif; 
+}
+h3{font-weight: bold !important;}
+
+
+.sec h3{font-size: 71px;}
+
+.sectext{font-size: 18px;}
+
+
+.text2{text-align: center; padding: 22px;font-weight: 400; }
+
+.sf{margin: 70px;padding: 1px;
+width: 24%;height: 49px;}
+
+  .div2 {background-color: #a79770; height: 230px;width: 240px; justify-content: center;align-items: center;} 
+  
+  .div4{background-color: #a79770;width: 100%; min-height: 740px; padding: 10px;}
+
+  .imga{background-image: url(beautiful-campsites-img/a.jpg); width: 100%;height: 440px;display: flex;justify-content: center;
+    background-repeat: no-repeat; background-size: 100% 100%;  background-position: center;}
+
+  .imgb{background-image: url(beautiful-campsites-img/b.jpg); width: 100%;height: 440px;display: flex;justify-content: center;background-repeat: no-repeat; background-size: 100% 100%;  background-position: center;}
+
+  .imgc{background-image: url(beautiful-campsites-img/c.jpg); width: 100%;height: 440px;display: flex;justify-content: center;background-repeat: no-repeat; background-size: 100% 100%;  background-position: center;}
+
+  .imgd{background-image: url(beautiful-campsites-img/d.jpg); width: 100%;height: 440px;display: flex;justify-content: center;background-repeat: no-repeat; background-size: 100% 100%;  background-position: center;}
+
+  .imge{background-image: url(beautiful-campsites-img/e.jpg); width: 100%;height: 440px;display: flex;justify-content: center;background-repeat: no-repeat; background-size: 100% 100%;  background-position: center;}
+
+  .imgf{background-image: url(beautiful-campsites-img/f.jpg); width: 100%;height: 440px;display: flex;justify-content: center;background-repeat: no-repeat; background-size: 100% 100%;  background-position: center;}
+
+  .text4{margin: 330px 0px; color: beige;}
+  
+.azt{text-align: center;font-size:22px;font-weight: bold; }
+.azs{font-family: 'Mulish', sans-serif;font-style: italic;font-weight:600;}
+
+  .class{margin: 60px; }
+
+  .class{justify-content:center;align-items: center;}
+ 
+  .imgxz{width: 100%;height: 270px;}
+  
+
+  .div7{margin: 70px;}
+
+  .one{background-color: #8b7a4d;width: 300px;height: 100px; text-align: center; color: white; margin: -70px 35px;padding: 8px;
+  position: absolute;}
+.div8{background-color: rgb(253, 254, 255);width: 100%; height: 270px;}
+
+.div9
+{background-image: url(beautiful-campsites-img/last.jpg); 
+    background-repeat: no-repeat; background-size: 100% 100%; height: 800px; background-position: center;}
+
+.form-group{color: white; font-weight: 600; margin: 10px;}
+
+.last{width: 100%;height: 110px;color: #ffffff;
+  background-color: #333333;}
+ 
+.bg{margin: 70px;}
+
+ 
+.two{text-align: center;}
+
+.fs:hover{transform: scale(1.1); overflow: hidden;}
+.fs{transition:2s;}
+
+  .d{position: absolute;top:560px;overflow: hidden;}  
+  .div2{margin: -200px 0px;}
